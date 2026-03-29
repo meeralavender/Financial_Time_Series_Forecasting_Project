@@ -1,7 +1,8 @@
 # Financial Time Series Forecasting using STFT + CNN
-**Name:** Meera Nandita S  
-**Registration Number:** TCR24CS045  
-**Deployed Project Link:** https://financial-time-series-forecasting-ctptuyb2ytsfblfe84ltpy.streamlit.app/
+
+  - Name: Meera Nandita S  
+  - Registration Number: TCR24CS045  
+  - Deployed Project Link: https://financial-time-series-forecasting-ctptuyb2ytsfblfe84ltpy.streamlit.app/
 ---
 
 ## Overview
